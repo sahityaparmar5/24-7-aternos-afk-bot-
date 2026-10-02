@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DESIxAVENGERS.aternos.me",
-    "port": 62216,
+    "port":62216,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "ankush ki gand 10rs me lelo",
-        "avengers i m son of sahitya"
+        "Ankush ki gand 10rs me lelo",
+        "Avengers i m son of sahitya"
       ]
     },
     "chat-log": true,
